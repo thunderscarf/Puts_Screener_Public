@@ -1,7 +1,7 @@
 # Puts Screener
 
 This Python script automates the screening of U.S. stocks in the Nasdaq 100 Index for **cash-secured put selling** opportunities based on trend and momentum signals. It pulls option chain data, calculates yields, and exports filtered results to an Excel file.
-My main data provider is **Polygon**, so you would need to have Polygon API Key to utilise this screener.
+My main data provider is **Polygon**, so you would need to have **Polygon API Key** to utilise this screener.
 
 ---
 
